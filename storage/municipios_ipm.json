@@ -424,5 +424,11 @@
         "uf": "RS",
         "tom": "8917",
         "sign": true
+    },
+    "4215000": {
+        "municipio": "Rio Negrinho",
+        "uf": "SC",
+        "tom": "8295",
+        "sign": true
     }
 }
